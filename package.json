@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "name": "npmbootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "sass": "^1.58.3"
+  },
+  "scripts": {
+    "sass": "sass --watch --update --style=compressed css:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
